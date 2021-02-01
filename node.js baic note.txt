@@ -1,0 +1,12 @@
+Node.js is a server-side platform built on Google Chrome's JavaScript Engine
+Features of Node.js
+1.All Node.js library APIs are asynchronous, i.e., non-blocking, asynchronous and event-driven. It simply means that a server based on Node.js never waits for an API to return results. After calling it, the server moves to the next API and a Node.js Events notification system allows the server to get a response from the previous API request.
+2. Very fast
+3. Single Threaded but Highly Scalable
+4. No Buffering − Node.js applications never buffer any data. These applications simply output the data in chunks.
+
+
+Creating Node.js Application
+Step 1 - Import Required Module
+Step 2 - Create Server
+Step 3 - Testing Request & Response
